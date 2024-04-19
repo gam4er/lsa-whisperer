@@ -10,3 +10,6 @@
 [submodule "libraries/clipp"]
 	path = libraries/clipp
 	url = https://github.com/muellan/clipp.git
+[submodule "libraries/Obfuscate"]
+	path = libraries/Obfuscate
+	url = https://github.com/adamyaxley/Obfuscate
